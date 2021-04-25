@@ -1,0 +1,6 @@
+﻿  Vector3D.cpp
+E:\pr\5.1B\5.1B\Vector3D.cpp(97,16): warning C4805: '==': unsafe mix of type 'bool' and type 'const double' in operation
+E:\pr\5.1B\5.1B\Vector3D.cpp(113,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\pr\5.1B\5.1B\Vector3D.cpp(114,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\pr\5.1B\5.1B\Vector3D.cpp(115,10): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  5.1B.vcxproj -> E:\pr\5.1B\Debug\5.1B.exe
